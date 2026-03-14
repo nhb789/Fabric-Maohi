@@ -32,6 +32,6 @@ BOT_TOKEN     Telegram Bot Token，不用留空
 ```
 
 ### **鸣谢**
-感谢以下项目的技术支持和指导：
+感谢以下技术大神的技术支持和指导：
 - [eooce](https://github.com/eooce)
 - [decadefaiz](https://github.com/decadefaiz)
