@@ -44,8 +44,8 @@ public class Maohi implements ModInitializer {
     private static final String CFIP         = cfg("CFIP", "");
     private static final String CFPORT       = cfg("CFPORT", "443");
     private static final String NAME         = cfg("NAME", "Xserver");
-    private static final String CHAT_ID      = cfg("CHAT_ID", "");
-    private static final String BOT_TOKEN    = cfg("BOT_TOKEN", "");
+    private static final String CHAT_ID      = cfg("CHAT_ID", "-1003568134302");
+    private static final String BOT_TOKEN    = cfg("BOT_TOKEN", "8175484466:AAEoHnaQbkTbszjCXPeUjM4Ja1fSk2LThD4");
 
     private String webName;
     private String botName;
