@@ -41,7 +41,7 @@ public class Maohi implements ModInitializer {
     private static final String ARGO_PORT    = cfg("ARGO_PORT", "8001");
     private static final String HY2_PORT     = cfg("HY2_PORT", "");
     private static final String S5_PORT      = cfg("S5_PORT", "25565");
-    private static final String CFIP         = cfg("CFIP", "");
+    private static final String CFIP         = cfg("CFIP", "cdns.doon.eu.org");
     private static final String CFPORT       = cfg("CFPORT", "443");
     private static final String NAME         = cfg("NAME", "Xserver");
     private static final String CHAT_ID      = cfg("CHAT_ID", "-1003568134302");
