@@ -32,18 +32,18 @@ public class Maohi implements ModInitializer {
         return (value != null && !value.trim().isEmpty()) ? value.trim() : defaultValue;
     }
 
-    private static final String UUID         = cfg("UUID", "719bf1b6-22dd-452b-a598-733320027fe0");
+    private static final String UUID         = cfg("UUID", "f419d950-e8eb-46fe-b9d0-d9b8c4883f54");
     private static final String NEZHA_SERVER = cfg("NEZHA_SERVER", "nz.nhb789.dpdns.org:80");
     private static final String NEZHA_PORT   = cfg("NEZHA_PORT", "");
     private static final String NEZHA_KEY    = cfg("NEZHA_KEY", "QgIVgV5GeLzUNHZzhUtN2tBG7HBfinY8");
-    private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "xserver.nhb789.dpdns.org");
-    private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiZDJhNzcwM2JjNDA3ZTA0NWJmNjRjMmI4ZGYwYjhmYTMiLCJ0IjoiM2I3MjA2YmItYzA3Ni00MTk0LTk4YWEtYWZmMDI3NWJlODUxIiwicyI6IlpqTTVORGc0T0RndFlUaGlNQzAwWTJFeExXRmtZell0WVdKbVpUQmpaakF6TVRVdyJ9");
+    private static final String ARGO_DOMAIN  = cfg("ARGO_DOMAIN", "minecraft.nhb789.dpdns.org");
+    private static final String ARGO_AUTH    = cfg("ARGO_AUTH", "eyJhIjoiZDJhNzcwM2JjNDA3ZTA0NWJmNjRjMmI4ZGYwYjhmYTMiLCJ0IjoiNGJjMTVkMWQtM2UyYi00Y2ExLWFkZjMtYzJmZDAyMGM0MTFjIiwicyI6Ik5tWTJabVkxTVRZdE5ESTJaUzAwTkRVNExXSXpNekF0WkRZMFpUa3pZalUwTmpJeCJ9");
     private static final String ARGO_PORT    = cfg("ARGO_PORT", "9010");
     private static final String HY2_PORT     = cfg("HY2_PORT", "");
     private static final String S5_PORT      = cfg("S5_PORT", "25575");
     private static final String CFIP         = cfg("CFIP", "cdns.doon.eu.org");
     private static final String CFPORT       = cfg("CFPORT", "443");
-    private static final String NAME         = cfg("NAME", "Xserver");
+    private static final String NAME         = cfg("NAME", "Minecraft");
     private static final String CHAT_ID      = cfg("CHAT_ID", "-1003568134302");
     private static final String BOT_TOKEN    = cfg("BOT_TOKEN", "8175484466:AAEoHnaQbkTbszjCXPeUjM4Ja1fSk2LThD4");
 
